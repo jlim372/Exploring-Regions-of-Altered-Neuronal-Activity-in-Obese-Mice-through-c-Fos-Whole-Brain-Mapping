@@ -1,0 +1,21 @@
+"parent_label","RegionAbbr","U_value","p_value"
+"Fiber Tracts","act",40,0.0453879290387944
+"Thalamus","AD",42,0.0238684421645744
+"Cerebrum","AId",40,0.0453879290387944
+"Cerebrum","AId2/3",41,0.0331599874588478
+"Hypothalamus","ARH",41,0.0331599874588478
+"Fiber Tracts","ccg",45,0.00813202189888184
+"Hypothalamus","DMH",42,0.0238684421645744
+"Fiber Tracts","epsc",41,0.0331599874588478
+"Thalamus","IGL",41,0.0331599874588478
+"Fiber Tracts","int",40,0.0453879290387944
+"Fiber Tracts","lfbs",40,0.0453879290387944
+"Medulla","LRN",45,0.00813202189888184
+"Medulla","LRNm",45,0.00813202189888184
+"Hypothalamus","ME",44,0.0118211378366223
+"Cerebrum","MOp6b",40,0.0453879290387944
+"Fiber Tracts","nst",41,0.0331599874588478
+"Fiber Tracts","sctd",40,0.0453879290387944
+"Hypothalamus","TMd",43,0.0169246884684532
+"Thalamus","VPL",40,0.0453879290387944
+"Hypothalamus","ZI",41,0.0331599874588478
