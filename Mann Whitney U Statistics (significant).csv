@@ -1,0 +1,14 @@
+Parental Regions,Region Abbreviations,U_value,p_value
+Cerebrum,AId2/3,41,0.033159987
+Cerebrum,AId,40,0.045387929
+Cerebrum,MOp6b,40,0.045387929
+Hypothalamus,ME,44,0.011821138
+Hypothalamus,TMd,43,0.016924688
+Hypothalamus,DMH,42,0.023868442
+Hypothalamus,ARH,41,0.033159987
+Hypothalamus,ZI,41,0.033159987
+Medulla,LRN,45,0.008132022
+Medulla,LRNm,45,0.008132022
+Thalamus,AD,42,0.023868442
+Thalamus,IGL,41,0.033159987
+Thalamus,VPL,40,0.045387929
